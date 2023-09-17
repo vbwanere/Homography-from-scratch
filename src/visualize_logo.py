@@ -41,10 +41,10 @@ def main():
     # Save some examples
     save_ind = [0, 25, 50, 75, 100, 125]
     if not os.path.exists("part_1_results"):
-        os.mkdir("part_1_results")
+        os.mkdir("results")
 
     for ind in save_ind:
-        cv2.imwrite("part_1_results/frame_" + str(ind) + ".png", processed_imgs[ind])
+        cv2.imwrite("results/frame_" + str(ind) + ".png", processed_imgs[ind])
 
     # Visualize the sequence of projected images
     for im in processed_imgs:
