@@ -3,7 +3,7 @@
 Python implementation for homography.\
 Projecting Penn Engineering logo on Barcelona cup match goal net.
 
-![alt text](https://github.com/vbwanere/Homography-from-scratch/blob/main/part_1_results/frame_0.png)
+![alt text](https://github.com/vbwanere/Homography_from_scratch/blob/main/part_1_results/frame_0.png)
 
 # References:
 1. Nayar, S. "Computing Homography | Image Stitching," YouTube, Mar 2, 2021. [Video file]. Available: https://www.youtube.com/watch?v=l_qjO4cM74o. [Accessed: Sept 5, 2023].
